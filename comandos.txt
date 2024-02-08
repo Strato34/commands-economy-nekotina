@@ -1,4 +1,4 @@
-Comandos de
+Comandos de economia del bot nekotina
 
 /bag
 /balance
